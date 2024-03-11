@@ -1,4 +1,4 @@
-#Amazon_sales_python_project
+#Amazon_Sales_python_project
 1. Introduction:
 The project involves the analysis of an Amazon sales report using Python programming and various data science libraries. The dataset contains information about orders, fulfillment status, sales channels, and other relevant details.
 
